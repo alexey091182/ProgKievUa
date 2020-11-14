@@ -13,6 +13,6 @@ public class Main {
         triangle2.calculatePerimeter();
         triangle2.calculateArea();
         System.out.println(triangle2);
-        System.out.println("triangle2");
+        
     }
 }
